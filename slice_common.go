@@ -3,8 +3,8 @@ package goflags
 import (
 	"strings"
 
+	fileutil "github.com/ExploitSuite/utils/file"
 	"github.com/pkg/errors"
-	fileutil "github.com/projectdiscovery/utils/file"
 )
 
 var quotes = []rune{'"', '\'', '`'}

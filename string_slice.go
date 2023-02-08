@@ -1,7 +1,7 @@
 package goflags
 
 import (
-	sliceutil "github.com/projectdiscovery/utils/slice"
+	sliceutil "github.com/ExploitSuite/utils/slice"
 )
 
 var (

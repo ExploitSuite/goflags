@@ -1,3 +1,7 @@
+github.com/ExploitSuite/utils v0.0.0-20230207143421-e4e936eeb7e9 h1:+oDfMQ9xlFKzzh8Aw6aks9UWwUCu69SgtmR/C8sO3mM=
+github.com/ExploitSuite/utils v0.0.0-20230207143421-e4e936eeb7e9/go.mod h1:gDtA88V5ZkQf2ANrrbw9QKGbUjlPUVyQqqSBskLmo9Y=
+github.com/ExploitSuite/utils v0.0.4-0.20221214110533-9f95ee986a54 h1:/fZvw6gT1fzdmMLMBBw75OrJ0Z6g7dulQrxM9FRp1qU=
+github.com/ExploitSuite/utils v0.0.4-0.20221214110533-9f95ee986a54/go.mod h1:PCwA5YuCYWPgHaGiZmr53/SA9iGQmAnw7DSHuhr8VPQ=
 github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d h1:Byv0BzEl3/e6D5CLfI0j/7hiIEtvGVFPCZ7Ei2oq8iQ=
 github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d/go.mod h1:WaHUgvxTVq04UNunO+XhnAqY/wQc+bxr74GqbsZ/Jqw=
 github.com/aymerick/douceur v0.2.0 h1:Mv+mAeH1Q+n9Fr+oyamOlAkUNPWPlA8PPGR0QAaYuPk=
@@ -23,8 +27,6 @@ github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/projectdiscovery/utils v0.0.4-0.20221214110533-9f95ee986a54 h1:/fZvw6gT1fzdmMLMBBw75OrJ0Z6g7dulQrxM9FRp1qU=
-github.com/projectdiscovery/utils v0.0.4-0.20221214110533-9f95ee986a54/go.mod h1:PCwA5YuCYWPgHaGiZmr53/SA9iGQmAnw7DSHuhr8VPQ=
 github.com/rogpeppe/go-internal v1.9.0 h1:73kH8U+JUqXU8lRuOHeVHaa/SZPifC7BkcraZVejAe8=
 github.com/rogpeppe/go-internal v1.9.0/go.mod h1:WtVeX8xhTBvf0smdhujwtBcq4Qrzq/fJaraNFVN+nFs=
 github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca h1:NugYot0LIVPxTvN8n+Kvkn6TrbMyxQiuvKdEwFdR9vI=

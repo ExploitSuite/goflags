@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/goflags
+module github.com/ExploitSuite/goflags
 
 go 1.18
 
@@ -19,13 +19,13 @@ require (
 )
 
 require (
+	github.com/ExploitSuite/utils v0.0.0-20230207143421-e4e936eeb7e9 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.21 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/projectdiscovery/utils v0.0.4-0.20221214110533-9f95ee986a54
 	github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca // indirect
 	golang.org/x/net v0.1.0 // indirect
 )

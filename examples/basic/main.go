@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/projectdiscovery/goflags"
+	"github.com/ExploitSuite/goflags"
 )
 
 type Options struct {

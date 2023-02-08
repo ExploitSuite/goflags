@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	stringsutil "github.com/projectdiscovery/utils/strings"
+	stringsutil "github.com/ExploitSuite/utils/strings"
 )
 
 const (
